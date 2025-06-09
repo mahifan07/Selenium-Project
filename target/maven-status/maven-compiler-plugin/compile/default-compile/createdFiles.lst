@@ -1,0 +1,3 @@
+com\automation\base\BaseTest.class
+com\automation\pages\HomeSwagLapsPage.class
+com\automation\pages\LoginSwagLapsPage.class

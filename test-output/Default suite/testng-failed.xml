@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.utility.Demo">
+      <class name="com.automation.utils.BrokenLinksFinder">
         <methods>
-          <include name="checkString"/>
+          <include name="findBrokenLinks"/>
         </methods>
-      </class> <!-- com.utility.Demo -->
+      </class> <!-- com.automation.utils.BrokenLinksFinder -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

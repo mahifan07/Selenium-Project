@@ -1,5 +1,5 @@
-C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\RunnerTest.java
-C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\stepDefinitions\ScreenshotHooks.java
-C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\stepDefinitions\SwagLapsLoginSteps.java
-C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\utility\BrokenLinksFinder.java
-C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\utility\Demo.java
+C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\stepdefinitions\SwagLapsLoginSteps.java
+C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\utils\BrokenLinksFinder.java
+C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\runners\RunnerTest.java
+C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\utils\Demo.java
+C:\Users\Sandip Bandal\eclipse-workspace\selenium-java-project\src\test\java\com\automation\hooks\ScreenshotHooks.java
