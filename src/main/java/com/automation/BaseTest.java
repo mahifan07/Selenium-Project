@@ -32,6 +32,7 @@ public class BaseTest {
         options.addArguments("--disable-infobars");
         options.addArguments("--start-maximized");
         options.addArguments("--remote-allow-origins=*");
+        options.addArguments("--headless", "--disable-gpu");
         driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
