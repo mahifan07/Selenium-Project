@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-java@v3 # Set up Java environment
         with:
           distribution: 'temurin' # Use Temurin distribution for Java 
-          java-version: '8' # Specify Java version 8
+          java-version: '11' # Specify Java version 8
 
       - name: Cache Maven packages # Cache Maven dependencies to speed up builds
         uses: actions/cache@v3 # Cache action for Maven dependencies
