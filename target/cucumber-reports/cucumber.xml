@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="17.275" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Automate the following workflows using the Page Object Model (POM) in the swaglabs web application." name="Login to swaglaps application" time="17.12">
+<system-out><![CDATA[
+Given user is on the swagLaps application...................................passed
+When user enters the username "standard_user" amd password "secret_sauce"...passed
+And user clicks on login button.............................................passed
+Then verfiy the login activity..............................................passed
+And add the products in the cart............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
