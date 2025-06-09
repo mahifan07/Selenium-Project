@@ -20,10 +20,6 @@ public class ScreenshotHooks {
    public ScreenshotHooks(){
    }
    
-//   public ScreenshotHooks(WebDriver driver){
-//	   this.driver = driver;
-//   }
-   
    @AfterStep
    public void takeScreenshot(){
 	   WebDriver driver = BaseTest.getDriver();
